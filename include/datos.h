@@ -4,6 +4,11 @@
  *La funcion para crear los datos
  */
 
+#ifndef DATOS_H
+#define DATOS_H
+
+#include <stdio.h>
+
 struct Datos {
     int numeros;
 };
