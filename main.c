@@ -3,8 +3,6 @@
 #include "datos.h"
 
 int main () {
-
-
 	struct NodeS* head = NULL;
         struct NodeS* nodo1 = crearNodo(crearDatos(5).numeros);
         insertarInicio(&head,nodo1->data.numeros); 
