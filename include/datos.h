@@ -16,3 +16,5 @@ struct Datos {
 
 void printDatos(struct Datos d);
 struct Datos crearDatos(int numero);
+
+#endif

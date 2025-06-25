@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include "nodosimple.h"
+#include "datos.h"
 
 int main () {
 
